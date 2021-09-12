@@ -13,9 +13,9 @@ Features:
 - Brightness control
 
 Install instructions:
-Part 1 - https://www.youtube.com/watch?v=M1x_yPTUGak
-Part 2 - https://www.youtube.com/watch?v=-7K7XvtfKoE
-Part 3 - https://www.youtube.com/watch?v=3CIYKLGDYLE
+- Part 1 - https://www.youtube.com/watch?v=M1x_yPTUGak
+- Part 2 - https://www.youtube.com/watch?v=-7K7XvtfKoE
+- Part 3 - https://www.youtube.com/watch?v=3CIYKLGDYLE
 
 This Joycon RGB LED project allows the use of individually addressable LEDs to light up the buttons. It does require
 trimming the shell, but the end result is a very clean install with little to no light bleed.
